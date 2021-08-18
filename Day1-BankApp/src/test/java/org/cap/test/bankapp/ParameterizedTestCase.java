@@ -42,5 +42,6 @@ public class ParameterizedTestCase {
 		Assert.assertEquals(output, account.addNumbers(input1, input2));
 	}
 	
+	
 
 }
